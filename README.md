@@ -50,7 +50,7 @@ Play around with these and see what you can get. Adding noise would lead to even
 I chose not to have noise to make analysis between different fields easier to do (since less randomness), but if you want 
 to add it I would recommend changing the velocitycap function used in all so that it gives each sheep their own maximum
 velocity since currently all my sheep travel at the same speed (which allows circular formations to form, we obviously
-would see this in nature since different sheep have different top speeds). 
+wouldn't see this in nature since different sheep have different top speeds). 
 
 Also in this code I assumed the sheep have 360 degree vision. To remedy this you would have to adjust r as such 
 ![image](https://user-images.githubusercontent.com/104319886/165838018-b0ba22de-c6a7-457c-9351-60841dee1efd.png)
