@@ -3,6 +3,16 @@ As part of my project on Collective Motion in 2D at Durham University. This repo
 
 The following code and equations display flocking motion with respect to alignment, cohesion and repulsion as well as methods 
 for testing the strength of flocking via concepts of polarisation, expanse and homogeneity. 
+
+As a visual representation of the strength of these three simple rules we show a video of a flock which obeys alignment, 
+cohesion and repulsion in a bounded domain as made by https://github.com/meznak/boids_py. Importantly I've set the perception
+radius to 100 and crowding radius to 15.
+
+https://user-images.githubusercontent.com/104319886/165834791-7ba55205-7e40-47f6-b512-05a4b657366d.mp4
+
+As you can see the motion is quite convincing and it's why when I decided to model this mathematically, I based my system of equations on 
+these three conditions.
+
 The flocking occurs on a bounded domain and my code is for a rectangle, a circle and an annulus as well as a set of code which generates
 random positions and velocities for these domains.
 I also include some code which shows how to iterate and perform multiple tests for multiple generated initial conditions.
@@ -21,4 +31,8 @@ These functions were based off of the Cucker-Smale and Three-Zone model.
 
 I also include some extra results which were implied, but not necessarily shown in my paper.
 
-We also have the video example of collective motion in 2D from the Boids program which utilises the three rules listed above. 
+ 
+This is a video of a flock which obeys alignment, cohesion and repulsion in a bounded domain as made by https://github.com/meznak/boids_py
+
+https://user-images.githubusercontent.com/104319886/165834791-7ba55205-7e40-47f6-b512-05a4b657366d.mp4
+
