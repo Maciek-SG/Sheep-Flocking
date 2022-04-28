@@ -31,7 +31,7 @@ the code given.
 
 These functions and systems were inspired by the Cucker-Smale and Three-Zone model.
 
-###What to expect from this code
+**What to expect from this code**
 
 Examples of results at time intervals of 0, 100, 1000, 10000:
 
