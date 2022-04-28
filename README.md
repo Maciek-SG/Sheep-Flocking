@@ -4,7 +4,7 @@ As part of my project on Collective Motion in 2D at Durham University. This repo
 The following code and equations display flocking motion with respect to alignment, cohesion and repulsion as well as methods 
 for testing the strength of flocking via concepts of polarisation, expanse and homogeneity. 
 The flocking occurs on a bounded domain and my code is for a rectangle, a circle and an annulus as well as a set of code which generates
-random positions and velocities for domains.
+random positions and velocities for these domains.
 I also include some code which shows how to iterate and perform multiple tests for multiple generated initial conditions.
 
 I would recommend playing around with the initial rectangular case, trying different functions to see how it works. I've included
