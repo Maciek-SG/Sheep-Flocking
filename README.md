@@ -16,7 +16,8 @@ these three conditions.
 
 The flocking occurs on a bounded domain and my code is for a rectangle, a circle and an annulus as well as a set of code which generates
 random positions and velocities for these domains.
-I also include some code which shows how to iterate and perform multiple tests for multiple generated initial conditions.
+I also include some code which shows how to iterate and perform multiple tests for multiple generated initial conditions as well as some extra results
+which I did not include in my paper.
 
 I would recommend playing around with the initial rectangular case, trying different functions to see how it works. I've included
 the functions which I call the 'baseline' equations which will definitely work, but feel free to change all of these. 
@@ -30,7 +31,7 @@ the code given.
 
 These functions and systems were inspired by the Cucker-Smale and Three-Zone model.
 
-I also include some extra results which were implied, but not necessarily shown in my paper.
+###What to expect from this code
 
 Examples of results at time intervals of 0, 100, 1000, 10000:
 
