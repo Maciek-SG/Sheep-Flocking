@@ -32,13 +32,13 @@ These functions and systems were inspired by the Cucker-Smale and Three-Zone mod
 
 I also include some extra results which were implied, but not necessarily shown in my paper.
 
-Examples of results:
+Examples of results at time intervals of 0, 100, 1000, 10000:
 
-![image](https://user-images.githubusercontent.com/104319886/165837141-ce1d5f46-acb4-489b-9e26-bdde11d51004.png)
+![image](https://user-images.githubusercontent.com/104319886/165839036-c9d6efee-8da7-45a4-bd41-993dd4ee811c.png)
 
 which yields the following:
 
-![image](https://user-images.githubusercontent.com/104319886/165837226-f425a06a-7c18-46f7-9f2a-8a42bb72f339.png)
+![image](https://user-images.githubusercontent.com/104319886/165839090-d3a2d25c-af04-4447-9672-7feeff3b1715.png)
 
 How these flocks visually look is completely dependent on how you set up the functions:
 
