@@ -1,5 +1,6 @@
 # Sheep-Flocking
-As part of my project on Collective Motion in 2D at Durham University. This repository features all the code used as well as some extras. 
+As part of my project on Collective Motion in 2D at Durham University. 
+This repository features all the code used as well as some extras. 
 
 The following code and equations display flocking motion with respect to alignment, cohesion and repulsion as well as methods 
 for testing the strength of flocking via concepts of polarisation, expanse and homogeneity. 
