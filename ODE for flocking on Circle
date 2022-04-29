@@ -167,7 +167,7 @@ plt.show()
 
 # plt.figure(1)
 # plt.scatter(timelist,NNDlist, color = 'blue')
-# plt.title("Homogeneity (Alignment Dominant)")
+# plt.title("Homogeneity")
 # plt.xlabel("Time-steps")
 # plt.ylabel("NND (d)")
 # plt.show()
