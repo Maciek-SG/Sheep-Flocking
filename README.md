@@ -9,7 +9,7 @@ As a visual representation of the strength of these three simple rules we show a
 cohesion and repulsion in a bounded domain as made by https://github.com/meznak/boids_py. Importantly I've set the perception
 radius to 100 and crowding radius to 15.
 
-https://user-images.githubusercontent.com/104319886/165834791-7ba55205-7e40-47f6-b512-05a4b657366d.mp4
+https://user-images.githubusercontent.com/104319886/165974594-481e0806-ba91-4a76-a3b8-a21bebdf3eb5.mp4
 
 As you can see the motion is quite convincing and it's why when I decided to model this mathematically, I based my system of equations on 
 these three conditions.
@@ -29,7 +29,9 @@ to look at snapshots, play around with the functions and to visually see if floc
 If you want to make new boundaries and areas you just need to change the 'wall force' section, if unclear just check the differences between
 the code given. 
 
-These functions and systems were inspired by the Cucker-Smale and Three-Zone model.
+These functions and systems were inspired by the Cucker-Smale and Three-Zone model. The main system of equations that I created for use throughout my project is this
+![image](https://user-images.githubusercontent.com/104319886/165973991-d504e842-d377-4c6f-9140-c6fd04b1b0f4.png)
+
 
 **What to expect from this code**
 
