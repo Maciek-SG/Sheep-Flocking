@@ -29,7 +29,8 @@ to look at snapshots, play around with the functions and to visually see if floc
 If you want to make new boundaries and areas you just need to change the 'wall force' section, if unclear just check the differences between
 the code given. 
 
-These functions and systems were inspired by the Cucker-Smale and Three-Zone model. The main system of equations that I created for use throughout my project is this
+These functions and systems were inspired by the Cucker-Smale and Three-Zone model. The main system of equations that I created for use 
+throughout my project is this
 ![image](https://user-images.githubusercontent.com/104319886/165973991-d504e842-d377-4c6f-9140-c6fd04b1b0f4.png)
 
 
