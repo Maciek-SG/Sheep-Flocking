@@ -1,5 +1,5 @@
 # Sheep-Flocking
-As part of my third year project on Collective Motion in 2D at Durham University. 
+As part of my third year math project on Collective Motion in 2D at Durham University. 
 This repository features all the code used as well as some extras. 
 
 The following code and equations display flocking motion with respect to alignment, cohesion and repulsion as well as methods 
